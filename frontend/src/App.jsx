@@ -21,7 +21,11 @@ function App() {
     
     const formData = new FormData();
     files.forEach(file => {
-      formData.append('files', file);
+      if (file.name.toLowerCase().includes('config')) {
+        formData.append('config_file', file);
+      } else {
+        formData.append('files', file);
+      }
     });
 
     try {

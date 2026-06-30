@@ -117,6 +117,13 @@ function CandidateCard({ candidate }) {
           </div>
         </div>
       )}
+
+      <details style={{ marginTop: '1rem', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '0.5rem' }}>
+        <summary style={{ cursor: 'pointer', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>View Raw Projected JSON</summary>
+        <pre style={{ fontSize: '0.75rem', background: 'rgba(0,0,0,0.2)', padding: '0.5rem', borderRadius: '4px', overflowX: 'auto', marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
+          {JSON.stringify(candidate, null, 2)}
+        </pre>
+      </details>
     </div>
   );
 }
