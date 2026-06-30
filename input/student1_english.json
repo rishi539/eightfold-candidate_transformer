@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jose Maria Garcia Alvarez",
+    "email": "jose.garcia@example.com",
+    "phone": "+34-91-555-0123",
+    "company": "Tech Solutions S.L.",
+    "title": "Senior Software Engineer",
+    "location": "Madrid, Spain",
+    "skills": "Python, JavaScript, TypeScript, SQL, Java, Docker, Kubernetes, AWS, PostgreSQL, MongoDB, Redis, Django, Flask, React, Node.js, FastAPI, REST APIs, GraphQL, Git, Linux, Agile/Scrum",
+    "experience": [
+      {
+        "company": "Tech Solutions S.L.",
+        "title": "Senior Software Engineer",
+        "start": "2020-01",
+        "end": "2024-06",
+        "summary": "Led migration of monolithic application to microservices architecture using Docker and Kubernetes, reducing deployment time by 70%. Designed and implemented scalable Python backend using FastAPI and PostgreSQL. Mentored team of 4 junior developers in best practices and code reviews. Established CI/CD pipelines using GitHub Actions and ArgoCD."
+      },
+      {
+        "company": "Digital Innovations Ltd",
+        "title": "Full Stack Developer",
+        "start": "2018-03",
+        "end": "2020-01",
+        "summary": "Developed 12+ web applications using React frontend and Python/Flask backend. Implemented real-time data processing pipeline handling 1M+ events/day. Optimized database queries reducing response time by 45%. Collaborated with 3 cross-functional teams on product roadmap."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Politecnica de Madrid",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "linkedin": "https://linkedin.com/in/jose-garcia-dev",
+    "github": "https://github.com/josegarcia",
+    "total_years_experience": 6
+  }
+]

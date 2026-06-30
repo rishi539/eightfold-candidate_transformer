@@ -1,0 +1,20 @@
+Aarav Desai
+Software Developer
+
+linkedin.com/in/aaravdesai-eng
+
+Tech Corp India
+Software Developer
+2020 - Present
+- Built a highly scalable backend architecture utilizing Python and Node.js.
+- Improved API response times by 40% using Redis caching.
+
+SCHOLASTIC
+B.Tech in Computer Science
+IIT Bombay
+2016 - 2020
+- Graduated with Honors.
+- Capstone Project: AI-driven Resume Parser.
+
+SKILLS
+Python, React, Node.js, SQL, Machine Learning

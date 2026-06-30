@@ -1,0 +1,53 @@
+RESUME
+═══════════════════════════════════════════════════════════════════════════════
+
+JOSÉ MARÍA GARCÍA ÁLVAREZ
+Madrid, Spain | +34-91-555-0123 | jose.garcia@example.com
+LinkedIn: linkedin.com/in/jose-garcia-dev | GitHub: github.com/josegarcia
+
+PROFESSIONAL HEADLINE
+Senior Software Engineer with 6+ years of experience in cloud-native architecture,
+microservices, and full-stack development. Proficient in Python, JavaScript, and
+DevOps technologies.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, SQL, Java
+Cloud & DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda, RDS), CI/CD
+Databases: PostgreSQL, MongoDB, Redis
+Frameworks: Django, Flask, React, Node.js, FastAPI
+Other: REST APIs, GraphQL, Git, Linux, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer
+Tech Solutions S.L., Madrid | January 2020 – June 2024
+
+• Led migration of monolithic application to microservices architecture
+  using Docker and Kubernetes, reducing deployment time by 70%
+• Designed and implemented scalable Python backend using FastAPI and PostgreSQL
+• Mentored team of 4 junior developers in best practices and code reviews
+• Established CI/CD pipelines using GitHub Actions and ArgoCD
+
+Full Stack Developer
+Digital Innovations Ltd, Barcelona | March 2018 – January 2020
+
+• Developed 12+ web applications using React frontend and Python/Flask backend
+• Implemented real-time data processing pipeline handling 1M+ events/day
+• Optimized database queries reducing response time by 45%
+• Collaborated with 3 cross-functional teams on product roadmap
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Universidad Politécnica de Madrid | Graduated: 2018
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+• AWS Solutions Architect Associate (2021)
+• Docker Certified Associate (2020)
+• Kubernetes Application Developer (2022)
+
+LANGUAGES
+Spanish (Native), English (Fluent), Catalan (Conversational)
+
+═══════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,5 @@
+name,email,phone,current_company,title,skills,linkedin,location
+Alice Johnson,alice.johnson@techcorp.com,+1-555-0101,TechCorp,Senior Software Engineer,"Python, JavaScript, React, Node.js, AWS",https://linkedin.com/in/alicejohnson,"San Francisco, CA, US"
+Bob Smith,bob.smith@dataio.com,+91-98765-43210,DataIO,Data Scientist,"Python, Machine Learning, TensorFlow, SQL, pandas",https://linkedin.com/in/bobsmith,"Bangalore, Karnataka, India"
+Carol Williams,carol.w@devhub.io;carol.williams@gmail.com,(555) 234-5678,DevHub,Full Stack Developer,"JavaScript, TypeScript, React, Node.js, MongoDB, Docker",https://linkedin.com/in/carolwilliams,"New York, NY, US"
+David Lee,david.lee@startup.co,+44-20-7946-0958,InnovateLtd,Product Manager,"Agile, Scrum, JIRA, SQL, Python",https://linkedin.com/in/davidlee,"London, England, UK"

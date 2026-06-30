@@ -1,0 +1,26 @@
+{
+  "applicant_name": "Aarav Desai",
+  "contact_email": "aarav.desai@example.in",
+  "cell": "+91 (987) 654-3210",
+  "tech_stack": "Python, React; Node.js , Machine Learning",
+  "current_company": "Tech Corp India",
+  "current_title": "Software Developer",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "experience": [
+    {
+      "company_name": "Tech Corp India",
+      "job_title": "Software Developer",
+      "start_date": "2020",
+      "end_date": "Present",
+      "responsibilities": ["Developed scalable backend architecture."]
+    }
+  ],
+  "education": [
+    "B.Tech in Computer Science, IIT Bombay (2016 - 2020)"
+  ],
+  "linkedin_url": "https://linkedin.com/in/aaravdesai-eng"
+}

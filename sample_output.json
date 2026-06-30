@@ -1,0 +1,2043 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "317aa731-50d1-483a-ae85-176e02e34b3b",
+      "full_name": "Alice Johnson",
+      "emails": [
+        "alice.j@gmail.com",
+        "alice.johnson@techcorp.com"
+      ],
+      "phones": [
+        "+15550101"
+      ],
+      "location": {
+        "city": "San Francisco",
+        "region": null,
+        "country": null
+      },
+      "links": {
+        "linkedin": "https://linkedin.com/in/alicejohnson",
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": 7.9,
+      "skills": [
+        {
+          "name": "AWS",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "Docker",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "Kubernetes",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Python",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "React",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechCorp",
+          "title": "Senior Software Engineer",
+          "start": "2021-03",
+          "end": null,
+          "summary": "Led development of microservices architecture serving 10M+ users"
+        },
+        {
+          "company": "StartupXYZ",
+          "title": "Software Engineer",
+          "start": "2018-06",
+          "end": "2021-02",
+          "summary": "Built RESTful APIs and front-end applications using React"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Stanford University",
+          "degree": "M.S.",
+          "field": "Computer Science",
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:Stanford University",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "experience:StartupXYZ",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:TechCorp",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Docker",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Kubernetes",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "csv",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.92
+    },
+    {
+      "candidate_id": "b2455571-6565-4d60-a131-51eb3039c89c",
+      "full_name": "Bob Smith",
+      "emails": [
+        "bob.smith@dataio.com"
+      ],
+      "phones": [
+        "+919876543210"
+      ],
+      "location": {
+        "city": "Bangalore",
+        "region": null,
+        "country": null
+      },
+      "links": {
+        "linkedin": "https://linkedin.com/in/bobsmith",
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": 8.8,
+      "skills": [
+        {
+          "name": "Apache Spark",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "Pandas",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Python",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "PyTorch",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "TensorFlow",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "DataIO",
+          "title": "Senior Data Scientist",
+          "start": "2020-01",
+          "end": null,
+          "summary": "Building ML pipelines for real-time fraud detection"
+        },
+        {
+          "company": "Analytics Corp",
+          "title": "Data Scientist",
+          "start": "2017-08",
+          "end": "2019-12",
+          "summary": "Developed predictive models for customer churn"
+        }
+      ],
+      "education": [
+        {
+          "institution": "IIT Bombay",
+          "degree": "B.Tech",
+          "field": "Computer Science",
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:IIT Bombay",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:Analytics Corp",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:DataIO",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Apache Spark",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Machine Learning",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Machine Learning",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Pandas",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:PyTorch",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TensorFlow",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TensorFlow",
+          "source": "csv",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.92
+    },
+    {
+      "candidate_id": "9f1b7781-b43b-44bf-b241-062a53ea09f4",
+      "full_name": "Eve Martinez",
+      "emails": [
+        "eve.m@techstartup.io"
+      ],
+      "phones": [
+        "+15559876543"
+      ],
+      "location": {
+        "city": "Austin",
+        "region": "TX",
+        "country": null
+      },
+      "links": {
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": 4.1,
+      "skills": [
+        {
+          "name": "AWS",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "CI/CD",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Docker",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Kubernetes",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Linux",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Terraform",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechStartup",
+          "title": "DevOps Engineer",
+          "start": "2022-05",
+          "end": null,
+          "summary": "Managing cloud infrastructure on AWS"
+        }
+      ],
+      "education": [
+        {
+          "institution": "MIT",
+          "degree": "B.S.",
+          "field": "Computer Engineering",
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:MIT",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:TechStartup",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:CI/CD",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Docker",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Kubernetes",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Linux",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Terraform",
+          "source": "ats_json",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.72
+    },
+    {
+      "candidate_id": "c6689547-9ae7-4e5b-a37f-de4e5f82eedd",
+      "full_name": "Carol Williams",
+      "emails": [
+        "carol.w@devhub.io",
+        "carol.williams@gmail.com"
+      ],
+      "phones": [
+        "+15552345678"
+      ],
+      "location": {
+        "city": "New York",
+        "region": "NY",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": "https://linkedin.com/in/carolwilliams",
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": null,
+      "skills": [
+        {
+          "name": "Docker",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "MongoDB",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "React",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        }
+      ],
+      "experience": [],
+      "education": [],
+      "provenance": [
+        {
+          "field": "email",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Docker",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:MongoDB",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TypeScript",
+          "source": "csv",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.68
+    },
+    {
+      "candidate_id": "49a17293-3654-417e-9dcb-8c1ad0aa1831",
+      "full_name": "David Lee",
+      "emails": [
+        "david.lee@startup.co"
+      ],
+      "phones": [
+        "+442079460958"
+      ],
+      "location": {
+        "city": "London",
+        "region": "England",
+        "country": "GB"
+      },
+      "links": {
+        "linkedin": "https://linkedin.com/in/davidlee",
+        "github": null,
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": null,
+      "skills": [
+        {
+          "name": "Agile",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Jira",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Python",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "Scrum",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        }
+      ],
+      "experience": [],
+      "education": [],
+      "provenance": [
+        {
+          "field": "email",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Agile",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Jira",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Scrum",
+          "source": "csv",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.68
+    },
+    {
+      "candidate_id": "301d3d0e-09ee-4f61-9a2b-a0011f7c6a5e",
+      "full_name": "alexia developer",
+      "emails": [
+        "ALEXIA@EXAMPLE.COM",
+        "dev.alexia@gmail.com"
+      ],
+      "phones": [
+        "+15551234567"
+      ],
+      "location": {
+        "city": "SF",
+        "region": "California",
+        "country": "US"
+      },
+      "links": {
+        "linkedin": "linkedin.com/in/alexiadev",
+        "github": "github.com/alexiadev",
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": 7.4,
+      "skills": [
+        {
+          "name": "AWS",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "HTML5",
+          "confidence": 0.6,
+          "sources": [
+            "csv"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        },
+        {
+          "name": "React",
+          "confidence": 0.8,
+          "sources": [
+            "ats_json",
+            "csv"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechCorp",
+          "title": "Software Engineer",
+          "start": "2020-01",
+          "end": null,
+          "summary": "Architected cloud microservices."
+        },
+        {
+          "company": "OldStartup",
+          "title": "Junior Dev",
+          "start": "2018-12",
+          "end": "2019-12",
+          "summary": "Built frontend with Vue.js"
+        }
+      ],
+      "education": [
+        {
+          "institution": "MIT",
+          "degree": "B.S.",
+          "field": "CS",
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:MIT",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:OldStartup",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:TechCorp",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:CSS3",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:HTML5",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Machine Learning",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "csv",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "csv",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.77
+    },
+    {
+      "candidate_id": "59f84f43-455a-4455-835d-d43684bac255",
+      "full_name": "JOSÉ MARÍA GARCÍA ÁLVAREZ",
+      "emails": [
+        "jose.garcia@example.com"
+      ],
+      "phones": [
+        "+34915550123"
+      ],
+      "location": {
+        "city": "LVAREZ\nMadrid",
+        "region": "Spain",
+        "country": null
+      },
+      "links": {
+        "linkedin": "linkedin.com/in/jose-garcia-dev",
+        "github": "github.com/josegarcia",
+        "portfolio": null,
+        "other": []
+      },
+      "headline": "LinkedIn: linkedin.com/in/jose-garcia-dev | GitHub: github.com/josegarcia",
+      "total_years_experience": 12.5,
+      "skills": [
+        {
+          "name": "Agile/Scrum",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "AWS",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "AWS (EC2",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "CI/CD",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Cloud & DevOps: Docker",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Databases: PostgreSQL",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Django",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Docker",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "FastAPI",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Flask",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Frameworks: Django",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Git",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "GraphQL",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Java",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Kubernetes",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Lambda",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Linux",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "MongoDB",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Other: REST APIs",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "PostgreSQL",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Programming Languages: Python",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Python",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "RDS)",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "React",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Redis",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "REST APIs",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "S3",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "confidence": 0.8500000000000001,
+          "sources": [
+            "ats_json",
+            "resume_pdf"
+          ]
+        }
+      ],
+      "experience": [
+        {
+          "company": "Madrid",
+          "title": "Tech Solutions S.L.",
+          "start": "2020-01",
+          "end": "2024-06",
+          "summary": "(cid:127) Led migration of monolithic application to microservices architecture\nusing Docker and Kubernetes, reducing deployment time by 70%\n(cid:127) Designed and implemented scalable Python backend using FastAPI and PostgreSQL\n(cid:127) Mentored team of 4 junior developers in best practices and code reviews\n(cid:127) Established CI/CD pipelines using GitHub Actions and ArgoCD\nFull Stack Developer"
+        },
+        {
+          "company": "Tech Solutions S.L.",
+          "title": "Senior Software Engineer",
+          "start": "2020-01",
+          "end": "2024-06",
+          "summary": "Led migration of monolithic application to microservices architecture using Docker and Kubernetes, reducing deployment time by 70%. Designed and implemented scalable Python backend using FastAPI and PostgreSQL. Mentored team of 4 junior developers in best practices and code reviews. Established CI/CD pipelines using GitHub Actions and ArgoCD."
+        },
+        {
+          "company": "Barcelona",
+          "title": "Digital Innovations Ltd",
+          "start": "2018-03",
+          "end": "2020-01",
+          "summary": "(cid:127) Developed 12+ web applications using React frontend and Python/Flask backend\n(cid:127) Implemented real-time data processing pipeline handling 1M+ events/day\n(cid:127) Optimized database queries reducing response time by 45%\n(cid:127) Collaborated with 3 cross-functional teams on product roadmap"
+        },
+        {
+          "company": "Digital Innovations Ltd",
+          "title": "Full Stack Developer",
+          "start": "2018-03",
+          "end": "2020-01",
+          "summary": "Developed 12+ web applications using React frontend and Python/Flask backend. Implemented real-time data processing pipeline handling 1M+ events/day. Optimized database queries reducing response time by 45%. Collaborated with 3 cross-functional teams on product roadmap."
+        }
+      ],
+      "education": [
+        {
+          "institution": "Bachelor of Science in Computer Science",
+          "degree": "Universidad Politécnica de Madrid | Graduated: 2018",
+          "field": null,
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:Bachelor of Science in Computer Science",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "email",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "experience:Barcelona",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "experience:Digital Innovations Ltd",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "experience:Madrid",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "experience:Tech Solutions S.L.",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "headline",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "links.github",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "links.linkedin",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "phone",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:AWS (EC2",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Agile/Scrum",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Agile/Scrum",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:CI/CD",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Cloud & DevOps: Docker",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Databases: PostgreSQL",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Django",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Docker",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:FastAPI",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:FastAPI",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Flask",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Flask",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Frameworks: Django",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Git",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Git",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:GraphQL",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:GraphQL",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Java",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Java",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:JavaScript",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Kubernetes",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Kubernetes",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Lambda",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Linux",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Linux",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:MongoDB",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:MongoDB",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Node.js",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Other: REST APIs",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:PostgreSQL",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Programming Languages: Python",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:RDS)",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:REST APIs",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:React",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Redis",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Redis",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:S3",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TypeScript",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TypeScript",
+          "source": "resume_pdf",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.77
+    },
+    {
+      "candidate_id": "9630b08a-b403-40df-9976-34cbe39de652",
+      "full_name": "nn (Li Hua)",
+      "emails": [],
+      "phones": [],
+      "location": {
+        "city": "Beijing",
+        "region": "China",
+        "country": null
+      },
+      "links": {
+        "linkedin": null,
+        "github": "github.com/lihua-ds",
+        "portfolio": null,
+        "other": []
+      },
+      "headline": "Beijing, China | GitHub: github.com/lihua-ds",
+      "total_years_experience": null,
+      "skills": [
+        {
+          "name": "Anaconda",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Apache Spark",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "C++",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "CNN",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Computer Vision: OpenCV",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Data Processing: Pandas",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Docker",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Git",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "GPT)",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Hadoop",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Keras",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Learn",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Machine Learning: TensorFlow",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "NLP: NLTK",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "NumPy",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Object Detection (YOLO)",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Programming Languages: Python",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "PyTorch",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "R",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Scikit",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "spaCy",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "SQL",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Tools: Jupyter",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "Transformers (BERT",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        },
+        {
+          "name": "XGBoost",
+          "confidence": 0.65,
+          "sources": [
+            "resume_pdf"
+          ]
+        }
+      ],
+      "experience": [],
+      "education": [
+        {
+          "institution": "Master of Science in Artificial Intelligence",
+          "degree": "Tsinghua University, Beijing | Graduated: 2023",
+          "field": null,
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:Master of Science in Artificial Intelligence",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "headline",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "links.github",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "location",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Anaconda",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Apache Spark",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:C++",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:CNN",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Computer Vision: OpenCV",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Data Processing: Pandas",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Docker",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:GPT)",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Git",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Hadoop",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Keras",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Learn",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Machine Learning: TensorFlow",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:NLP: NLTK",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:NumPy",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Object Detection (YOLO)",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Programming Languages: Python",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:PyTorch",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:R",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:SQL",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Scikit",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Tools: Jupyter",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Transformers (BERT",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:XGBoost",
+          "source": "resume_pdf",
+          "method": "merge"
+        },
+        {
+          "field": "skill:spaCy",
+          "source": "resume_pdf",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.61
+    },
+    {
+      "candidate_id": "73c7f3ec-887f-4dca-89b3-f495cd5516fe",
+      "full_name": "李华",
+      "emails": [],
+      "phones": [],
+      "location": null,
+      "links": {
+        "linkedin": null,
+        "github": "https://github.com/lihua-ds",
+        "portfolio": null,
+        "other": []
+      },
+      "headline": null,
+      "total_years_experience": null,
+      "skills": [
+        {
+          "name": "Machine Learning",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Pandas",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "Python",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        },
+        {
+          "name": "TensorFlow",
+          "confidence": 0.6,
+          "sources": [
+            "ats_json"
+          ]
+        }
+      ],
+      "experience": [],
+      "education": [
+        {
+          "institution": "Tsinghua University",
+          "degree": "Master of Science",
+          "field": "Artificial Intelligence",
+          "end_year": null
+        }
+      ],
+      "provenance": [
+        {
+          "field": "education:Tsinghua University",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "full_name",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "links.github",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Machine Learning",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Pandas",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:Python",
+          "source": "ats_json",
+          "method": "merge"
+        },
+        {
+          "field": "skill:TensorFlow",
+          "source": "ats_json",
+          "method": "merge"
+        }
+      ],
+      "overall_confidence": 0.61
+    }
+  ],
+  "metadata": {
+    "source_count": 8,
+    "candidate_count": 9,
+    "warnings": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {"path": "full_name", "type": "string", "required": true},
+    {"from": "emails[0]", "path": "primary_email", "type": "string", "required": true},
+    {"from": "phones[0]", "path": "primary_phone", "type": "string"},
+    {"path": "skills[].name", "type": "string"},
+    {"path": "location.country", "type": "string"},
+    {"path": "headline", "type": "string"},
+    {"path": "total_years_experience", "type": "number"}
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "missing_value": "null"
+}
