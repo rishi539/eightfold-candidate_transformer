@@ -3,8 +3,6 @@
 
 This repository contains a deterministic data pipeline designed to ingest candidate information from heterogeneous, messy sources (ATS JSON, PDFs/DOCX), resolve identities, handle conflicts safely, calculate confidence scores, track provenance, and dynamically project the output into a canonical schema.
 
-## Demo Video
-[🔗 Watch the 2-Minute Demo Video Here](YOUR_YOUTUBE_OR_LOOM_LINK_HERE)
 
 ## 1. Assumptions & Scope
 - **Identity Resolution**: Candidates are matched primarily via deterministic exact matches on normalized Email, Phone, and LinkedIn/GitHub URLs.
